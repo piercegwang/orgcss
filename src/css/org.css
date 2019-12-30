@@ -3,7 +3,7 @@
 
 $sans: Helvetica, sans-serif;
 $serif: Georgia, serif;
-$monospace: Lucida Console, monospace;
+$monospace: Courier, monospace;
 $code-size: 80%;
 $smaller: 90%;
 $max-width: 710px;
@@ -347,6 +347,7 @@ p.verse {
     box-shadow: 3px 3px 3px #eee;
     font-family: $monospace;
     font-size: $code-size;
+    line-height: 1.0;
     margin: 1em auto;
     padding: 0.1em 0.5em;
     position: relative;
