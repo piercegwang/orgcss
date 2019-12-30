@@ -347,7 +347,7 @@ p.verse {
     box-shadow: 3px 3px 3px #eee;
     font-family: $monospace;
     font-size: $code-size;
-    line-height: 1.0;
+    line-height: 1.0em;
     margin: 1em auto;
     padding: 0.1em 0.5em;
     position: relative;
